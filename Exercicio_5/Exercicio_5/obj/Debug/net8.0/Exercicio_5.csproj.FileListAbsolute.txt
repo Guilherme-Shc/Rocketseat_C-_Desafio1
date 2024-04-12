@@ -1,0 +1,14 @@
+C:\Code\C#\Exercicios Rocketseat 1\Exercicio_5\Exercicio_5\bin\Debug\net8.0\Exercicio_5.exe
+C:\Code\C#\Exercicios Rocketseat 1\Exercicio_5\Exercicio_5\bin\Debug\net8.0\Exercicio_5.deps.json
+C:\Code\C#\Exercicios Rocketseat 1\Exercicio_5\Exercicio_5\bin\Debug\net8.0\Exercicio_5.runtimeconfig.json
+C:\Code\C#\Exercicios Rocketseat 1\Exercicio_5\Exercicio_5\bin\Debug\net8.0\Exercicio_5.dll
+C:\Code\C#\Exercicios Rocketseat 1\Exercicio_5\Exercicio_5\bin\Debug\net8.0\Exercicio_5.pdb
+C:\Code\C#\Exercicios Rocketseat 1\Exercicio_5\Exercicio_5\obj\Debug\net8.0\Exercicio_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\C#\Exercicios Rocketseat 1\Exercicio_5\Exercicio_5\obj\Debug\net8.0\Exercicio_5.AssemblyInfoInputs.cache
+C:\Code\C#\Exercicios Rocketseat 1\Exercicio_5\Exercicio_5\obj\Debug\net8.0\Exercicio_5.AssemblyInfo.cs
+C:\Code\C#\Exercicios Rocketseat 1\Exercicio_5\Exercicio_5\obj\Debug\net8.0\Exercicio_5.csproj.CoreCompileInputs.cache
+C:\Code\C#\Exercicios Rocketseat 1\Exercicio_5\Exercicio_5\obj\Debug\net8.0\Exercicio_5.dll
+C:\Code\C#\Exercicios Rocketseat 1\Exercicio_5\Exercicio_5\obj\Debug\net8.0\refint\Exercicio_5.dll
+C:\Code\C#\Exercicios Rocketseat 1\Exercicio_5\Exercicio_5\obj\Debug\net8.0\Exercicio_5.pdb
+C:\Code\C#\Exercicios Rocketseat 1\Exercicio_5\Exercicio_5\obj\Debug\net8.0\Exercicio_5.genruntimeconfig.cache
+C:\Code\C#\Exercicios Rocketseat 1\Exercicio_5\Exercicio_5\obj\Debug\net8.0\ref\Exercicio_5.dll

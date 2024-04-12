@@ -1,0 +1,14 @@
+C:\Code\C#\Exercicios Rocketseat 1\Exercicio_6\Exercicio_6\obj\Debug\net8.0\Exercicio_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\C#\Exercicios Rocketseat 1\Exercicio_6\Exercicio_6\obj\Debug\net8.0\Exercicio_6.AssemblyInfoInputs.cache
+C:\Code\C#\Exercicios Rocketseat 1\Exercicio_6\Exercicio_6\obj\Debug\net8.0\Exercicio_6.AssemblyInfo.cs
+C:\Code\C#\Exercicios Rocketseat 1\Exercicio_6\Exercicio_6\obj\Debug\net8.0\Exercicio_6.csproj.CoreCompileInputs.cache
+C:\Code\C#\Exercicios Rocketseat 1\Exercicio_6\Exercicio_6\bin\Debug\net8.0\Exercicio_6.exe
+C:\Code\C#\Exercicios Rocketseat 1\Exercicio_6\Exercicio_6\bin\Debug\net8.0\Exercicio_6.deps.json
+C:\Code\C#\Exercicios Rocketseat 1\Exercicio_6\Exercicio_6\bin\Debug\net8.0\Exercicio_6.runtimeconfig.json
+C:\Code\C#\Exercicios Rocketseat 1\Exercicio_6\Exercicio_6\bin\Debug\net8.0\Exercicio_6.dll
+C:\Code\C#\Exercicios Rocketseat 1\Exercicio_6\Exercicio_6\bin\Debug\net8.0\Exercicio_6.pdb
+C:\Code\C#\Exercicios Rocketseat 1\Exercicio_6\Exercicio_6\obj\Debug\net8.0\Exercicio_6.dll
+C:\Code\C#\Exercicios Rocketseat 1\Exercicio_6\Exercicio_6\obj\Debug\net8.0\refint\Exercicio_6.dll
+C:\Code\C#\Exercicios Rocketseat 1\Exercicio_6\Exercicio_6\obj\Debug\net8.0\Exercicio_6.pdb
+C:\Code\C#\Exercicios Rocketseat 1\Exercicio_6\Exercicio_6\obj\Debug\net8.0\Exercicio_6.genruntimeconfig.cache
+C:\Code\C#\Exercicios Rocketseat 1\Exercicio_6\Exercicio_6\obj\Debug\net8.0\ref\Exercicio_6.dll
